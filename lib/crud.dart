@@ -116,7 +116,7 @@ class _CrudState extends State<Crud> {
                     padding: EdgeInsets.all(4),
                     width: 120,
                     child: TextField(
-                      //obscureText: true,
+                      obscureText: true,
                       controller: _password,
                       autofocus: true,
                       keyboardType: TextInputType.datetime,
