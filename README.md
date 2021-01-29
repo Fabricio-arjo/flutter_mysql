@@ -1,6 +1,6 @@
 # CRUD using Flutter + Mysql
 
-Conection Flutter and Mysql
+Connection Flutter and Mysql
 
 ## Getting Started
 
